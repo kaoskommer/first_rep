@@ -1,1 +1,1 @@
-1234123412341234asdfasdfaf
+a = int(input())
